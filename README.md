@@ -1,6 +1,6 @@
 # Codes for extracting geospatial data from NASA's Landsat images for the purposes of investigating various phenomena
 
-For my project under the Ministry of Trade & Industry's Economist Service Internship programme, I leveraged data from Google Earth Engine, Open Street Map (OSM) and GeoSpace (GS) to investigate the effectiveness of heat mitigation policies on behalf of the Ministry of Sustainability and Environment in Singapore with econometric modelling. In this project, we look at:
+For my project under the Ministry of Trade & Industry's Economist Service (ES) Internship programme, I leveraged data from Google Earth Engine, Open Street Map (OSM) and GeoSpace (GS) to investigate the effectiveness of heat mitigation policies on behalf of the Ministry of Sustainability and Environment in Singapore with econometric modelling. In this project, we look at:
 1. The effect of greenery on Land Surface Temperatures (LST), where greenery is measured by NDVI;
   a. The clearing of land for the construction of BTO flats in Singapore;
   b. HDB's mandatory Green Plot Ratio of 4.5 for all HDB developments from the year 2016 onwards
